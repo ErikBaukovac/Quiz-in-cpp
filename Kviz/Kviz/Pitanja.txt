@@ -1,0 +1,30 @@
+Sto oznacava href u tagu <a>?,odreduje URL stranice na koju link pokazuje,odreduje oblik linka,odreduje vrstu medija vezanog dokumenta,odreduje gdje se link otvara,1
+Koji znak se koristi za kraj taga?,#,!,/,\,3
+Koja je najnovija verzija HTML-a?,HTML,XHTML,HTML5,HTMLX,3
+Koji nastavak se moze koristi za HTML dokumente?,.htmls,.htm,.ht,.htmll,2
+Koliko naslova moze HTML imati?,9,6,3,5,2
+Kako se nazivaju HTML elementi koji nemaju zavrsni tag?,Nulti element,Prazni element,Element,Tag bez kraja,2
+Koji tag je ispravno napisan?,<br></br>,<h1></h2>,<p><p/>,<del></del>,4
+Koji unos ce promijeniti boju teksta u plavu?,"color:blue",style="color:black;",style="color:blue;","style="color:blue;",3
+Koji tag se koristi za navodenje citata?,<q>,<c>,<quote>,<"">,1
+Koji tag nam sluzi za upis komentara?,"",<"">,<!--..-->,<c>,3
+Sto znaci CSS?,Cascading Style Sheets,Create Standard Style,Common Style Sheets,Nema znacenje,1
+Kako se CSS ne moze dodati u HTML?,U istom redu,Unutar HTML-a,Van HTML-a,Preko druge HTML datoteke,4
+Kako izgleda sintaksa za HTML linkove?,<a>href="url"tekst</a>,<a href="url"tekst></a>,<a href="url">tekst</a>,href="url"<a>tekst</a>,3
+Koja je svrha CSS-a?,Laksi unos podataka u HTML,Smanjuje kompleksnost HTML-a,Opis stila u HTML dokumentu,Povecanje pouzdanosti HTML-a,3
+Koji tag oznacava listu?,<li>,<list>,<l>,<lis>,1
+Koji tag oznacava neuredenu listu?,<ul>,<ol>,<li>,<olist>,1
+Koji tag oznacava uredenu listu?,<ul>,<ulist>,<li>,<ol>,4
+Sto oznacava tag <br>?,unos brojeva,brojac,razmak,prekid,4
+Koji pretrazivac ne podupire tag <detail>?,Opera,Mozilla Firefox,Internet Explorer,Safari,3
+Koji aribut ne postoji za tag <table>?,rules,media,align,sortable,2
+Sto oznacava tag <hr>?,definira tematske promjene u sadrzaju,oznaka za drzavu,definira naslove,oznacuje dio teksta,1
+Koji tag se koristi za umetanje slike?,<picture>,<image>,<pic>,<img>,4
+Sto radi tag <address>?,otvara odredene adrese,dodaje link stranice,dodaje informacija o autoru,ne postoji taj tag,3
+Sto radi tag <var>?,definira varijablu,ispisuje varijablu,unosi podatke u varijablu,tag ne postoji,1
+Koji tag se koristi za definiranje datuma i vremena?,<set>,<time>,<dt>,<date>,2
+Sto tag <mark> radi?,definira oznaceni tekst,odvaja dio teksta,brise oznaceni tekst,kopira oznaceni tekst,1
+Sto znaci tag <s>?,sprema tekst,tekst vise nije tocan,tekst se mora upisati,podsjetnik,2
+Koji tag predstavlja napredak?,<pg>,<progres>,<progress>,<pr>,3
+Koji tag odreduje unutrasnji okvir?,<ff>,<if>,<frame>,<iframe>,4
+Koji se tag koristi za listu sa objasnjenjima?,<dl>,<listd>,<desc>,<dl>,4
